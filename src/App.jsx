@@ -57,8 +57,8 @@ function App() {
             </p>
             <p className="text-xl md:text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-purple-500 mt-6">
               May your special day be filled with joy, laughter, and all the happiness you deserve! 🌟 <br />
-              I Love You So Much kukuuuu 💕 <br />
-              muwaaaah muwaaaah 
+              I Love You So Much Baby 💕 <br />
+          
             </p>
           </div>
         </div>
@@ -129,15 +129,15 @@ function App() {
                     
                     <div className="space-y-6 text-white max-w-2xl mx-auto">
                       <p className="text-base md:text-lg lg:text-xl leading-relaxed text-shadow font-medium px-2">
-                        My Jaanu, on this special day, I want you to know that you are the most beautiful person I've ever met - not just on the outside, but in every way that truly matters. Your kindness touches everyone around you, your laughter is my favorite melody, and your heart is the purest gift life has given me.
+                         On this special day, I want you to know that you are the most beautiful person I've ever met - not just on the outside, but in every way that truly matters. Your kindness touches everyone around you, your laughter is my favorite melody, and your heart is the purest gift life has given me.
                       </p>
                       <p className="text-base md:text-lg lg:text-xl leading-relaxed text-shadow font-medium px-2">
                         Every moment spent with you feels like a dream I never want to wake up from. You've brought colors into my world that I never knew existed, and taught me what it truly means to love someone with your whole heart. You are the answer of my all prayers, and your presence makes everything better.
                       </p>
                       <p className="text-base md:text-lg lg:text-xl leading-relaxed font-bold text-shadow-lg px-2 text-center mt-8">
                         Today, and every day, I celebrate you. You deserve all the happiness, all the love, and all the beautiful moments this world has to offer. Happy birthday to the one who always makes me smile. I wanna spend my whole rest of life with you. 💖✨<br />
-                        I Love You So Much shonuuuu 💕 <br />
-                        muwaaaah muwaaaah 😘 😘 
+                        I Love You So Much Baby 💕 <br />
+                        
                       </p>
                     </div>
                     
